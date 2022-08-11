@@ -30,7 +30,7 @@ requirements:
     - fastdtw
     - loguru
     - numpy <1.23.0 # https://stackoverflow.com/q/65676484/3362993
-    - scipy<1.9.0
+    - scipy <1.9.0
 
 test:  
   imports:
