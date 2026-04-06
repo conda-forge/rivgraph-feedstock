@@ -8,8 +8,8 @@ package:
 
 source:
   url: https://github.com/veinsoftheearth/rivgraph/archive/v{{ version }}.tar.gz
-  sha256: bcfa89c8b3178bce381f643217b1e8329748e22cc7a5b4753b966fec52dc8d42
-
+  sha256: 9d0f9aedd6f09d77f91eb50b3c02039b43010997a41aa6adf92ead5ba0497d46
+  
 build:
   noarch: python
   number: 4
